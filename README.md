@@ -1,6 +1,4 @@
-# Cancer-Grading---Computer-vision
-Done as part of Design Project 
-
+# Cancer Detection & Grading - Advancing Precision
 ## Problem Description:
 
 
